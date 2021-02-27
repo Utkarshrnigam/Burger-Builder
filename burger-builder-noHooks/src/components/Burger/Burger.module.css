@@ -1,0 +1,12 @@
+.Burger {
+  width: 30%;
+  margin: auto;
+  overflow-y: scroll;
+  height: 400px;
+}
+.noIngridients {
+  text-align: center;
+}
+.Burger::-webkit-scrollbar {
+  display: none;
+}

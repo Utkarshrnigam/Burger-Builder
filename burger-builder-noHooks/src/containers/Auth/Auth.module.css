@@ -1,0 +1,15 @@
+.SubmitForm {
+  width: 80%;
+  margin: auto;
+  box-shadow: 4px 4px 4px 4px rgba(204, 204, 204, 0.342);
+  padding: 40px 16px;
+  position: relative;
+  top: 100px;
+  height: 300px;
+}
+.SubmitForm h3 {
+  display: block;
+  margin: auto;
+  width: 100%;
+  text-align: center;
+}

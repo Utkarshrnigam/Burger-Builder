@@ -1,0 +1,36 @@
+.NavBar {
+  width: 100%;
+  top: 0;
+  left: 0;
+  background-color: sienna;
+  height: 60px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.NavBar ul {
+  display: flex;
+  height: 100%;
+  align-items: center;
+  box-sizing: border-box;
+}
+
+.NavItems {
+  color: wheat;
+  display: block;
+  justify-content: center;
+  list-style: none;
+  height: 100%;
+  text-decoration: none;
+  padding: 16px 10px;
+  box-sizing: border-box;
+  border-bottom: 4px solid transparent;
+}
+
+.NavItems:hover {
+  border-bottom: 4px solid #40a4cb;
+}
+.active {
+  border-bottom: 4px solid #40a4cb;
+}

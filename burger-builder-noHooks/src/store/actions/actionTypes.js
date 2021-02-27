@@ -1,0 +1,13 @@
+export const REMOVE_ING = "REMOVE_ING";
+export const ADD_ING = "ADD_ING";
+export const SET_INGS = "SET_INGS";
+export const ORDER_PLACED = "ORDER_PLACED";
+export const PLACING_ORDER = "PLACING_ORDER";
+export const FETCH_ORDER = "FETCH_ORDER";
+export const SET_ORDERS = "SET_ORDERS";
+export const FETCHING_ORDER = "FETCHING_ORDER";
+export const AUTH_START = "AUTH_START";
+export const AUTH_FAIL = "AUTH_FAIL";
+export const AUTH = "AUTH";
+export const AUTH_SUCCESS = "AUTH_SUCCESS";
+export const AUTH_LOGOUT = "AUTH_LOGOUT";

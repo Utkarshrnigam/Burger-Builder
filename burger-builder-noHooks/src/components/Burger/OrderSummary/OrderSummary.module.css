@@ -1,0 +1,17 @@
+.list {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+  align-items: center;
+}
+
+.list span {
+  width: 100%;
+}
+
+.totalAmount {
+  margin-left: 260px;
+}
+.marginBottom {
+  margin-bottom: 15px;
+}
